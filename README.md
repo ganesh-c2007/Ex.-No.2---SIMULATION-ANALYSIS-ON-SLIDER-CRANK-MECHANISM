@@ -18,7 +18,7 @@
 PROCEDURE:
 Configuration Diagram
 Assume scale 1:10
-1. Draw a ho0rizontal reference line and mark the fixed point C on the line.
+1. Draw a horizontal reference line and mark the fixed point C on the line.
 2. From point C, draw the crank CB = 20 mm (since actual length 200 mm with scale 1:10) at an angle of 120° to the horizontal.
 3. Mark point B at the end of the crank CB.
 4. With B as centre and radius 60 mm (connecting rod BA = 600 mm, scaled to 60 mm), draw an arc.
