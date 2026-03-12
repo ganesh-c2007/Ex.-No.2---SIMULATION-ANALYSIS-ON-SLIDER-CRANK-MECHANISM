@@ -51,7 +51,8 @@ Scale: 10 m/s = 100 mm (assumed)
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-<img width="1920" height="916" alt="561314969-5ead84de-c3d1-46b7-ab02-da58fa62a09b" src="https://github.com/user-attachments/assets/12b2b34f-09c4-4925-b4f1-50dc6b3e7440" />
+
+<img width="1920" height="1080" alt="562271452-8d4fb473-e92b-4749-bc8b-4558cdc7942e" src="https://github.com/user-attachments/assets/db084c84-8920-44cb-992a-2db4a3b80062" />
 
 
 ### Name:Ganesh.c
